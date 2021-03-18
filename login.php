@@ -55,7 +55,7 @@ include "config/koneksi.php";
                                         <input type="password" name="password" class="form-control form-control-user" id="exampleInputPassword" placeholder="password">
                                     </div>
                                     <button class="btn btn-primary btn-user btn-block">
-                                        Login
+                                        Login Yuk Kak
                                     </button>
                                     <hr>
                                 </form>
